@@ -15,6 +15,6 @@ A simple and responsive calculator built using HTML, CSS, and JavaScript. This p
 - **JavaScript**
 
 ## 📸 Live Demo
-[Click here to see live]() 
+[Click here to see live](https://calculator-using-js-beryl.vercel.app) 
 
 
