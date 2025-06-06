@@ -15,6 +15,6 @@ A simple and responsive calculator built using HTML, CSS, and JavaScript. This p
 - **JavaScript**
 
 ## 📸 Live Demo
-[Click here to see live](https://elegant-twilight-d1b394.netlify.app/))  
+[Click here to see live]() 
 
 
